@@ -2,11 +2,11 @@
 ![Alt Text](https://i.imgur.com/6KzWf7m.gif)
     
 -----------------------------------------------------------------------------------------------------------
-This is an early preview extension which provides a quick and easy way to to use ML.NET AutoML Features from VSCode.
+This is an early preview extension which provides a quick and easy way to to use [ML.NET](https://dot.net/ml) AutoML Features from VSCode.
 
-The idea of the extension is for it to be as close to feature parity with Visual Studio's Model Builder. All features are using the ML.NET Cli to run the operations.
+The idea of the extension is for it to be as close to feature parity with Visual Studio's Model Builder. All features are using the [ML.NET](https://dot.net/ml) Cli to run the operations.
 
-As Features are added to the ML.NET CLI, i'm planning on adding them as needed to the extension. 
+As Features are added to the [ML.NET](https://dot.net/ml) CLI, i'm planning on adding them as needed to the extension. 
 
 
 ## Current Features
@@ -26,13 +26,13 @@ For planned features you can visit the Project board to see whats coming to the 
 ## Requirements
 
 - .NET Core
-- Install the [ML.NET](dot.net/ml) Cli (dotnet tool install -g mlnet)
+- Install the [ML.NET](https://dot.net/ml) Cli (dotnet tool install -g mlnet)
 
 
 ## How to use
 
 - Launch the command pallete
-- Run command [ML.NET](dot.net/ml) Model Builder (Preview)
+- Run command [ML.NET](https://dot.net/ml) Model Builder (Preview)
 - Follow the series of aquestions
 
 ## Known Issues
