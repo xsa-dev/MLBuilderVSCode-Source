@@ -1,4 +1,4 @@
-# [ML.NET](dot.net/ml) Model Builder for VSCode (Preview)
+# [ML.NET](https://dot.net/ml) Model Builder for VSCode (Preview)
 ![Alt Text](https://i.imgur.com/6KzWf7m.gif)
     
 -----------------------------------------------------------------------------------------------------------
