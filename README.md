@@ -39,6 +39,9 @@ For planned features you can visit the Project board to see whats coming to the 
 
 Currently in Testing. Please create Github Issues to work on any issues you find!. 
 
+## Licence
+
+MIT
 
 -----------------------------------------------------------------------------------------------------------
 **Enjoy!**
