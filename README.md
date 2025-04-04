@@ -1,4 +1,4 @@
-# ML.NET Model Builder for VSCode (Preview)
+# [ML.NET](dot.net/ml) Model Builder for VSCode (Preview)
 ![Alt Text](https://i.imgur.com/6KzWf7m.gif)
     
 -----------------------------------------------------------------------------------------------------------
@@ -21,19 +21,19 @@ As Features are added to the ML.NET CLI, i'm planning on adding them as needed t
 
 ## Planned Features
 
-For planned features you can visit the Project board to see whats coming to the Extension, [Project Board]: https://github.com/franzsilva/MLBuilderVSCode-Source/projects
+For planned features you can visit the Project board to see whats coming to the Extension, [Project Board]: https://github.com/xsa-dev/MLBuilderVSCode-Source/projects
 
 ## Requirements
 
 - .NET Core
-- Install the ML.NET Cli (dotnet tool install -g mlnet)
+- Install the [ML.NET](dot.net/ml) Cli (dotnet tool install -g mlnet)
 
 
 ## How to use
 
 - Launch the command pallete
-- Run command ML.NET Model Builder (Preview)
-- Follow the series of questions
+- Run command [ML.NET](dot.net/ml) Model Builder (Preview)
+- Follow the series of aquestions
 
 ## Known Issues
 
